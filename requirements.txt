@@ -1,2 +1,2 @@
-colorama==0.4.6
-pretty-errors==1.2.25
+numpy==1.26.4
+pygame==2.5.2
